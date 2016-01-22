@@ -2,4 +2,4 @@ git
 gradle
 camel 
 activeMQ
-spring fq
+spring
