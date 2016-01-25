@@ -1,4 +1,5 @@
 [MASTER]
+[MERGE]
 
 git 
 gradle
